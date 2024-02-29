@@ -1,0 +1,10 @@
+Movie_name,Polarity,Subjectivity
+nightmare alley,0.04,0.54
+coda,0.07,0.51
+king richard,0.1,0.47
+The-Power-of-the-Dog,0.08,0.47
+dont look up,0.06,0.47
+belfast,0.06,0.47
+West-Side-Story,-0.1,0.25
+dune,0,0
+,0.07,0.49
